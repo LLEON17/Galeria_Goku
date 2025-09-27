@@ -6,6 +6,14 @@
 }
 body{
   font-family: "Montserrat", sans-serif;
+  background-position: right bottom;
+  background-attachment: fixed;
+  background-size: 50px;
+  background-color: rgba(150,101,160,0.5);
+  background-image: url(https://png.pngitem.com/pimgs/s/136-1361002_nubes-sin-fondo-png-transparent-png.png)
+  
+
+ 
 }
 .contenedor{
   max-width: 1200px;
@@ -14,10 +22,10 @@ body{
 }
 .card{
   width: 320px;
-  background-color: #f2f2f2;
+  background-color: #ece7e7;
   padding: 10px;
   margin: 10px;
-  border-radius: 8px;
+  border-radius: 10px;
   border: solid 0.5px #cbc3c3;
   display: inline-block;
 }
@@ -38,3 +46,45 @@ body{
   color: #515151;
   text-align: center;
 }
+
+.punto_c1{
+
+  background-color: #ecb0b0;
+}
+
+.punto_c2_Combinación_RGB1{
+
+  background-color: rgb(10, 150, 200
+  );
+}
+
+.punto_c2_Combinación_RGB2{
+
+  background-color: rgb(200, 160, 250
+  );
+
+}
+.punto_c2_Combinación_RGB3{
+
+  background-color: rgb(144, 198, 218);
+}
+.punto_c2_Combinación_RGB4{
+
+  background-color: rgb(105, 150, 200
+  );
+}
+
+.punto_c2_Combinación_RGB5{
+
+  background-color: rgb(150, 10,19
+  
+  );
+}
+
+.punto_c3 {
+
+  background-color: rgba(241, 131, 241, 0.5);
+
+}
+
+
